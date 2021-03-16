@@ -5,9 +5,9 @@
   "main": "index.js",
   "author": "xM",
   "private": true,
-  "homepage": "https://github.com/xM-1/evobot",
+  "homepage": "https://github.com/xM-1/kiro-music",
   "repository": "github:xM-1/evobot",
-  "bugs": "https://github.com/xM-1/evobot/issues",
+  "bugs": "https://github.com/xM-1/kiro-music/issues",
   "engines": {
     "node": ">=14.0.0"
   },
